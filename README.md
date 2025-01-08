@@ -4,13 +4,12 @@ Diese Anwendung hilft Ihnen dabei, die neuesten Inhalte von der BILD-Website im 
 
 Ein Beispiel-Datensatz sieht so aus:
 
-`code`
- "66f5878e9ac67010f4af671b": {
+`"66f5878e9ac67010f4af671b": {
         "title": "Posse in Dresden: Stadt baut neues Stadion und vergisst Anzeigetafel",
         "url": "https://www.bild.de/regional/dresden/posse-in-dresden-stadt-baut-neues-stadion-und-vergisst-anzeigetafel-66f5878e9ac67010f4af671b",
         "category": "Regional",
         "published": "2024-09-28T00:30:48.774749",
         "publishedToNormal": "2024-09-29T10:30:56.996316",
         "timeBetween": "34, 0"
-    },
+    }`
 
